@@ -340,14 +340,17 @@ Open frontend/index.html in browser
 
 ---
 
-## 🏆 Why EventFlow Pro Is Interview-Ready
+## 🏆 Video
+Link : https://drive.google.com/file/d/1ldTGPJ8dQiw-obJdYNCPk3XK2H4pG0CG/view?usp=sharing
 
-* Real-world problem statement
-* Clean full-stack architecture
-* AI-ready design
-* Secure authentication
-* Scalable backend
-* Strong UI + UX alignment
+---
+
+## Screenshots
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/53188f99-b144-4af9-a5f2-b11e81b59359" />
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/2b308a5c-9ba3-45b1-a6e1-e2636174db76" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/eb216db8-b98e-4bd0-a3d0-21b35ea00e32" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/63971557-4557-4789-9c31-c088cca778a3" />
+<img width="1918" height="964" alt="image" src="https://github.com/user-attachments/assets/37573245-2a98-402d-9e53-5ec58c0fceca" />
 
 ---
 
