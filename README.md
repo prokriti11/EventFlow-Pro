@@ -11,9 +11,23 @@
 
 **EventFlow Pro** is a full-stack, scalable event discovery and ticket booking platform designed to help users explore events, receive personalized recommendations, book tickets securely, and engage with a live community.
 
-[Features](#-core-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation--setup) • [API Docs](#-api-endpoints) • [Architecture](#-system-architecture)
+[Features](#-core-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation--setup) • [API Docs](#-api-endpoints) • [Architecture](#-system-architecture) • [Demo Video](#-demo-video)
 
 </div>
+
+---
+
+## 🎬 Demo Video
+
+<div align="center">
+
+[![EventFlow Pro Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://your-video-link-here.com)
+
+**[🎥 Click here to watch the full demo video](https://drive.google.com/file/d/1ldTGPJ8dQiw-obJdYNCPk3XK2H4pG0CG/view?usp=sharing)**
+
+</div>
+
+> 💡 **Replace `https://your-video-link-here.com`** with your actual video link (YouTube, Vimeo, Loom, etc.)
 
 ---
 
@@ -525,20 +539,10 @@ For inquiries: [contact@eventflowpro.com](mailto:contact@eventflowpro.com)
 
 ---
 
-## 📞 Support
-
-- 📧 Email: support@eventflowpro.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/eventflow-pro/issues)
-- 📚 Documentation: [docs.eventflowpro.com](https://docs.eventflowpro.com)
-
----
-
 <div align="center">
 
 **Built with ❤️ by the EventFlow Pro Team**
 
 ⭐ **Star this repo** if you find it helpful!
-
-[⬆ Back to Top](#-eventflow-pro)
 
 </div>
