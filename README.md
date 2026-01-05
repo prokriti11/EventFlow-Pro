@@ -27,8 +27,6 @@
 
 </div>
 
-> 💡 **Replace `https://your-video-link-here.com`** with your actual video link (YouTube, Vimeo, Loom, etc.)
-
 ---
 
 ## 📌 Problem Statement
